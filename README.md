@@ -238,6 +238,13 @@ logEach( 'x1[%d] = %.2f; x2[%d] = %.2f', idx, x1, idx, x2 );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/random-base/cosine`][@stdlib/random/base/cosine]</span><span class="delimiter">: </span><span class="description">raised cosine distributed pseudorandom numbers.</span>
+-   <span class="package-name">[`@stdlib/random-array/cosine`][@stdlib/random/array/cosine]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from a raised cosine distribution.</span>
+
 </section>
 
 <!-- /.related -->
@@ -316,6 +323,12 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [@stdlib/random/base/cosine]: https://github.com/stdlib-js/random-base-cosine
 
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
+
+<!-- <related-links> -->
+
+[@stdlib/random/array/cosine]: https://github.com/stdlib-js/random-array-cosine
+
+<!-- </related-links> -->
 
 </section>
 
